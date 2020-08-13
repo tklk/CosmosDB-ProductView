@@ -13,7 +13,7 @@
  
  ## Introduction
 A simple implementation of web app product view in mean stack.
-Check demo @ [cosdb.mdb.pv](http://cosdb.monogb.pv.tklk.nctu.me/)
+Check demo @ [cosdb.mdb.pv](http://cosdb.monogdb.pv.tklk.nctu.me/)
 
 ## Installation
 ### Git clone
